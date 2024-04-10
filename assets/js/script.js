@@ -1,5 +1,3 @@
-// 'use strict';
-
 $(document).ready(function () {
 
   //Pulls the current date
@@ -202,6 +200,3 @@ $(document).ready(function () {
     listCities();
   });
 });
-
-
-//End of line
