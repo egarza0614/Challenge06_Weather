@@ -3,7 +3,7 @@
 ## Description
 A web-app for checking the current weather and 5-day forecast for a city.
 
-The link to my deployed github portfolio is: https://egarza0614.github.io/C6_Weather
+The link to my deployed github portfolio is: https://egarza0614.github.io/Challenge06_Weather
 
 ## Usage
 WHEN I search for a city
